@@ -1,6 +1,6 @@
 **Welcome**
 
-Welcome to the BimTools repository! Here you can find all the latest versions of our application for installation and use.
+Welcome to the BimTools installers repository! Here you can find all the latest versions of our application.
 
 ### About the Program
 BimTools is a plugin, a set of commands for Revit.
